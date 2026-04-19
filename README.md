@@ -3,9 +3,10 @@ Data Analytics Datathon Project
 # 📊 Flight Data Analysis & Prediction
 
 ## 👤 Student Details
-- Name: Sneha Patil  
-- Role: Data Wrangler + Model Developer + Visualizer  
-- Contact: [Your Email]
+- Name    : Sneha Patil
+- Class   : TY Btech ECM  
+- Roll no.: 51
+- email   : sneha1710patil@gmail.com
 
 ---
 
@@ -22,7 +23,7 @@ The goal of this project is to analyze flight data and predict delays based on v
 ## 📂 Dataset
 - Source: Kaggle  
 - Dataset Name: `flights_sample_3m.csv`  
-- Dataset Link: [Paste link here]  
+- Dataset Link: Dataset Link: https://www.kaggle.com/datasets/flight-delay-dataset  
 
 ---
 
