@@ -23,7 +23,7 @@ The goal of this project is to analyze flight data and predict delays based on v
 ## 📂 Dataset
 - Source: Kaggle  
 - Dataset Name: `flights_sample_3m.csv`  
-- Dataset Link: Dataset Link: https://www.kaggle.com/datasets/flight-delay-dataset  
+- Dataset Link: https://www.kaggle.com/datasets/flight-delay-dataset  
 
 ---
 
